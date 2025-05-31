@@ -1,4 +1,4 @@
-Project Brief
+**Project Brief**
 
 You work as a Sales Manager for Millennials Tech, a company that specializes in selling computer hardware to large businesses. They’ve just started using a new CRM system to track their sales opportunities but have no visibility of the data outside of the platform. To combat this, you’ve set out to build an interactive dashboard that enables sales managers like yourself to track their team's quarterly performance. 
 Along the way, you’ll :
@@ -6,7 +6,10 @@ Along the way, you’ll :
 2️⃣ Explore the data with pivot tables
 3️⃣ Build a dynamic dashboard 
 
-Objective 1 - PREPARE DATA
+<img width="855" alt="Screenshot 2025-05-31 at 11 38 51 AM" src="https://github.com/user-attachments/assets/ee6e9484-e580-4252-a6fe-638f3ca6fedf" />
+
+
+**Objective 1 - PREPARE DATA**
 
 PREPARE THE DATA FOR ANALYSIS :
 
@@ -14,8 +17,6 @@ Open the sales_pipeline.csv file in Google sheets.
 Take a moment to familiarize yourself with the data. How many opportunities has been won , over what period of time ? What products were sold ? Are there any missing values?
 Open the sales_teams.csv file in new tab
 Bring the manager and regional_office for each sales_agent in the sales_pipeline table.
-
-
 
 STEPS TAKEN :
 	1. Import CSV files.
@@ -25,7 +26,7 @@ STEPS TAKEN :
 	5. Use Absolute and relative cell references in Xlookup formula.
 
 
-Objective 2 - EXPLORE DATA
+**Objective 2 - EXPLORE DATA**
 
 EXPLORE THE DATA WITH PIVOT TABLES
 
@@ -40,10 +41,7 @@ STEPS TAKEN :
 	3. Arrange pivot tables in descending order to show latest dates first.
 
 
- Objective 3 - BUILD DASHBOARD
-
-Saturday, 31 May 2025
-10:01 AM
+** Objective 3 - BUILD DASHBOARD**
 
 BUILD A DYNAMIC DASHBOARD
 
